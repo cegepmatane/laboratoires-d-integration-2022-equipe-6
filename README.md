@@ -4,6 +4,21 @@ Nom de l'étudiant : Mathéo Galuba
 
 ## Proxmox VE
 
+### Installation proxmox VE
+L’interface web est accessible à partir de l’IP statique.
+![Création de l'objet AWS](doc/01%20-%20Installation%20proxmox%20VE.png)
+
+La console VirtualBox permet le ping 8.8.8.8 (facultatif)
+![Création de l'objet AWS](doc/01%20-%20Installation%20proxmox%20VE%20facultatif.png)
+
+### Création d’une machine virtuelle
+L’interface web est accessible à partir de l’IP statique.
+![Création de l'objet AWS](doc/01%20-%20Installation%20proxmox%20VE.png)
+
+### Installation de htop
+L’interface web est accessible à partir de l’IP statique.
+![Création de l'objet AWS](doc/01%20-%20Installation%20proxmox%20VE.png)
+
 ## IOT AWS MQTT
 
 ### Création de l'objet AWS

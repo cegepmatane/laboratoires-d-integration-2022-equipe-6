@@ -12,10 +12,14 @@ La console VirtualBox permet le ping 8.8.8.8 (facultatif)
 ![Création de l'objet AWS](Matheo/01%20-%20Installation%20proxmox%20VE%20facultatif.png)
 
 ### Création d’une machine virtuelle
-Pas atteint
+La machine virtuelle est créée.
+Le loggin avec le vrai nom de l’étudiant fonctionne.
+![Création de l'objet AWS](Matheo/02%20-%20Cr%C3%A9ation%20machine%20virtuelle.png)
 
 ### Installation de htop
-Pas atteint
+La commande : `sudo apt install htop` fonctionne.
+L'exécution de htop fonctionne.
+![Création de l'objet AWS](Matheo/03%20-%20Installation%20de%20htop.png)
 
 ## IOT AWS MQTT
 
